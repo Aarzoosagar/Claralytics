@@ -8,13 +8,13 @@ The application combines a React frontend, FastAPI backend, Python analytics/ML 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-### 🌐 Application
+###  Application
 
 **[Open Claralytics](http://16.16.203.163)**
 
-### ❤️ Backend Health Check
+###  Backend Health Check
 
 **[API Health Check](http://16.16.203.163/health)**
 
@@ -22,7 +22,7 @@ The application combines a React frontend, FastAPI backend, Python analytics/ML 
 
 ---
 
-## ✨ Features
+## Features
 
 - User registration and authentication
 - JWT-based authentication
@@ -44,7 +44,7 @@ The application combines a React frontend, FastAPI backend, Python analytics/ML 
 
 ---
 
-## 🧠 AI-Powered Analytics
+## AI-Powered Analytics
 
 Claralytics integrates Groq with Llama 3.3 70B to convert analytical results into human-readable insights.
 
@@ -64,7 +64,7 @@ AI-Generated Insights
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                          INTERNET
@@ -111,7 +111,7 @@ Nginx
 
 ---
 
-## ☁️ AWS Deployment
+##  AWS Deployment
 
 Claralytics is deployed on Amazon EC2 using Ubuntu Linux.
 
@@ -154,7 +154,7 @@ Local Development
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -211,7 +211,7 @@ Local Development
 
 ---
 
-## 📊 Analytics & Machine Learning
+##  Analytics & Machine Learning
 
 Claralytics provides multiple analytical capabilities:
 
@@ -243,7 +243,7 @@ Claralytics provides multiple analytical capabilities:
 
 ---
 
-## 📄 Reports
+##  Reports
 
 Claralytics can generate analytical reports based on processed datasets and analysis results.
 
@@ -251,7 +251,7 @@ Reports can be downloaded for further analysis and sharing.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Claralytics/
@@ -303,7 +303,7 @@ Claralytics/
 
 ---
 
-## ⚙️ Local Development
+##  Local Development
 
 ### Prerequisites
 
@@ -321,7 +321,7 @@ cd Claralytics
 
 ---
 
-## 🐍 Backend Setup
+##  Backend Setup
 
 ```bash
 cd backend
@@ -377,7 +377,7 @@ http://localhost:8000/docs
 
 ---
 
-## ⚛️ Frontend Setup
+##  Frontend Setup
 
 ```bash
 cd frontend
@@ -404,7 +404,7 @@ http://localhost:5173
 
 ---
 
-## 🏭 Production Build
+##  Production Build
 
 ```bash
 npm run build
@@ -418,7 +418,7 @@ frontend/dist/
 
 ---
 
-## 🔐 Security
+##  Security
 
 The application follows basic deployment security practices:
 
@@ -445,7 +445,7 @@ dist/
 
 ---
 
-## 🧪 API Health Check
+##  API Health Check
 
 The backend provides:
 
@@ -511,7 +511,7 @@ EC2 provides control over:
 
 ---
 
-## 📝 Deployment Challenges Solved
+##  Deployment Challenges Solved
 
 ### EC2 SSH Connectivity
 
@@ -543,7 +543,7 @@ Built the React application using Vite and served the generated production files
 
 ---
 
-## 📌 Current Deployment Status
+##  Current Deployment Status
 
 | Component          | Status       |
 | ------------------ | ------------ |
@@ -561,7 +561,7 @@ Built the React application using Vite and served the generated production files
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 The current deployment intentionally keeps the infrastructure simple.
 
@@ -582,7 +582,7 @@ Planned improvements include:
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 * [x] React frontend
 * [x] FastAPI backend
@@ -607,7 +607,7 @@ Planned improvements include:
 
 ---
 
-## 💡 What This Project Demonstrates
+##  What This Project Demonstrates
 
 ### Full-Stack Development
 
@@ -627,7 +627,7 @@ AWS EC2, VPC, Security Groups, Ubuntu, SSH, Nginx, systemd and production deploy
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 ### Aarzoo Sagar
 
@@ -645,7 +645,7 @@ Interested in:
 
 ---
 
-## 🔗 Links
+##  Links
 
 **GitHub:**
 [https://github.com/Aarzoosagar/Claralytics](https://github.com/Aarzoosagar/Claralytics)
